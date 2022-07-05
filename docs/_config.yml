@@ -5,7 +5,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 url: https://earthlingmusic.github.io/
 #baseurl: '/earthlingmusic/'
-baseurl: '/'
+baseurl: ''
 #disqus: 'demowebsite'
 #email: 'wowthemesnet@gmail.com'
 mailchimp-list: 'https://soundcloud.us10.list-manage.com/subscribe/post?u=dc1c5cf438810073dbe0d8e52&amp;id=5916cbe3a3'
