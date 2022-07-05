@@ -212,7 +212,7 @@ A: We were only able to assimilate 30 audience members during our show at Fusion
 
 Q: On behalf of planet Earth, we are disappointed you assimilated so few Earthlings during your Fusion show.
 
-A: We are sorry and will assimilate better next time.
+A: That sounds like something an Earthling would say. We are sorry and will assimilate better next time.
 
 Q: Do you care about how many followers you have on social media?
 
@@ -343,7 +343,3 @@ Q: Keeping it real is very important.
 <br>
 
 This interview was edited for brevity.
-
-Published in “Earthling Music Sounds And Tones”, a newspaper about Earthling music, Earthling sounds, and Earthling tones, written by Earthlings for Earthlings. “Earthling Music Sounds And Tones” is available in print everywhere in the Andromeda nebula. It is only available on planet Earth using the internet.
-
-Text and images (besides author image) are released under a Creative Commons Attribution 4.0 International license.
