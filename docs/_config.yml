@@ -53,3 +53,18 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections_dir: _collections
+
+collections:
+  columns:
+    output: true
+  heros:
+    output: true
+
+
+# Social media
+twitter: twitter
+github: github
+linkedin: linkedin
+facebook: facebook
