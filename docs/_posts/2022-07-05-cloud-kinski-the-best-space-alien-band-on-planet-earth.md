@@ -3,11 +3,11 @@ layout: post
 title:  "Cloud Kinski: The Best Space Alien Band on Planet Earth"
 author: hume
 categories: [ music ]
-image: assets/images/17.jpg
+image: assets/images/cloud-kinski-nanu.jpg
 tags: [featured]
 ---
 
-Cloud Kinski is the best space alien band on planet Earth. They just released their first album Nanu on all Earthling streaming platforms. Cloud Kinski recently played Fusion Festival in Europe to an packed audience at the Cloud Cuckoo stage, a full aeroplane hangar. 30 Earthlings were eagerly assimilated during the show.
+Cloud Kinski is the best space alien band on planet Earth. They just released their first album Nanu on all Earthling streaming platforms. Cloud Kinski recently played Fusion Festival in Europe to a packed audience at the Cloud Cuckoo stage, a full aeroplane hangar. 30 Earthlings were eagerly assimilated during the show.
 
 Cloud Kinski are Real Space Aliens
 
