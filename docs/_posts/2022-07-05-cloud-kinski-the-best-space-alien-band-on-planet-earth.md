@@ -7,7 +7,7 @@ image: assets/images/cloud-kinski-nanu.jpg
 tags: [featured]
 ---
 
-Cloud Kinski is the best space alien band on planet Earth. They just released their first album Nanu on all Earthling streaming platforms. Cloud Kinski recently played Fusion Festival in Europe to a packed audience at the Cloud Cuckoo stage, a full aeroplane hangar. 30 Earthlings were eagerly assimilated during the show.
+[Cloud Kinski](https://linktr.ee/cloudkinski) is the best space alien band on planet Earth. They just released their first album Nanu on all Earthling streaming platforms. Cloud Kinski recently played [Fusion Festival](https://www.fusion-festival.de/de/2022/start) in Europe to a packed audience at the Cloud Cuckoo stage, a full aeroplane hangar. 30 Earthlings were eagerly assimilated during the show.
 
 {:refdef: style="text-align: center;"}
  ![](/assets/images/ck-dancing1.gif)
@@ -141,7 +141,7 @@ A: Yes, Cloud Kinski can use Ableton.
 
 Q: Does Cloud Kinski use Ableton?
 
-A: Our first album Nanu is our based upon live recordings from our shows. We used our favourite multitrack recording takes for the album, except for “French Song / émoticône”. Our favourite take of French Song was recorded the first rehearsal we improvised this song. We post-produced the live recordings using Ableton.
+A: Our first album Nanu is our based upon live recordings from our shows. We used our favourite multitrack recording takes for the album, except for [“French Song / émoticône”](https://soundcloud.com/cloudkinski/french-song-emoticone). Our favourite take of French Song was recorded the first rehearsal we improvised this song. We post-produced the live recordings using Ableton.
 
 Q: What does Nanu mean? Is it an alien word?
 
@@ -150,6 +150,8 @@ A: Nanu is Bengali slang for “grandmother”.
 Q: Nanu.
 
 A: Nanu.
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1294790050&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/cloudkinski" title="Cloud Kinski" target="_blank" style="color: #cccccc; text-decoration: none;">Cloud Kinski</a> · <a href="https://soundcloud.com/cloudkinski/french-song-emoticone" title="French Song / émoticône" target="_blank" style="color: #cccccc; text-decoration: none;">French Song / émoticône</a></div>
 
 
 ## History of Assimilation
@@ -170,7 +172,7 @@ A: Yes. We currently immediately exchange crypto into Earthling money.
 
 Q: What is Fusion Festival?
 
-A: Fusion Festival has many dissimilarities from Burning Man. It has over 70,000 attendees. It is the best music festival we have ever assimilated.
+A: Fusion Festival is a festival with over 70,000 attendees that has many dissimilarities from [Burning Man](https://burningman.org/). It is the best music festival we have ever assimilated.
 
 Q: Will you assimilate other music festivals?
 
@@ -216,18 +218,22 @@ A: During our song “I Feel Giorgio”, our performers apply Cloud Kinski makeu
 *Assimilating eager Earthlings.*
 {: refdef}
 
-Q: Why paint your face? Why wear a mask?
-
-A: Creativity! Expression!
-[image of flyer]
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1294790059&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/cloudkinski" title="Cloud Kinski" target="_blank" style="color: #cccccc; text-decoration: none;">Cloud Kinski</a> · <a href="https://soundcloud.com/cloudkinski/i-feel-giorgio" title="I Feel Giorgio" target="_blank" style="color: #cccccc; text-decoration: none;">I Feel Giorgio</a></div>
 
 Q: How many audience members were you able to assimilate during your Fusion show?
 
 A: We were only able to assimilate 30 audience members during our show at Fusion, even though we played the Cloud Cuckoo stage, a full aeroplane hangar.
 
+{:refdef: style="text-align: center;"}
+ ![](/assets/images/fusion-cloud-cuckoo-stage.gif)
+{: refdef}
+{:refdef: style="text-align: center;"}
+*Audience members unassimilated.*
+{: refdef}
+
 Q: On behalf of planet Earth, we are disappointed you assimilated so few Earthlings during your Fusion show.
 
-A: That sounds like something an Earthling would say. We are sorry and will assimilate better next time.
+A: We are sorry and will assimilate better next time.
 
 Q: Do you care about how many followers you have on social media?
 
@@ -268,7 +274,7 @@ A: Cloud Simon is the Cloud Mother (and sometimes Cloud Daddy). Cloud Joseph is 
 
 Q: Where else is the Kinski triad observed?
 
-A: This pattern is everywhere on planet Earth. For example, the Holy Trinity of Dub music is King Tubby (1946-1989, the Mother who has the golden touch), Scientist (1960-, the Son who further innovated on studio techniques), and Lee Scratch Perry (1936-2021, the Holy Ghost and also a space alien). The Ayurvedic Doshas are Kapha mother energy, Pitta son energy, and Vata Holy Ghost energy. Et cetera.
+A: This pattern is everywhere on planet Earth. For example, the Holy Trinity of Dub music is King Tubby (1946-1989, the Mother who has the golden touch), Scientist (1960-, the Son who further innovated on studio techniques), and Lee "Scratch" Perry (1936-2021, the Holy Ghost and also a space alien). The Ayurvedic Doshas are Kapha mother energy, Pitta son energy, and Vata Holy Ghost energy. Et cetera.
 [flyer image]
 
 Q: Can anyone Cloud Kinski?
@@ -313,7 +319,10 @@ A: Immensely. Humans like the crayons and markers and colors, and we handed them
 Q: Isn’t “Kann man Kunst” the wrong translation of “Can anyone art?”
 
 A: Yes. We are sorry. We should have written “Kann jede*r Kunst?” We improve constantly.
-We would like to thank Harald Büttner at FLYERALARM [link] for rush printing our order, despite us not having an Earthing customer account. He wrote us: “Sometimes unbureaucratic action is necessary to help a customer. I hope my trust will not be disappointed.”
+
+Q: Good.
+
+A: We would like to thank Harald Büttner at [FLYERALARM](https://www.flyeralarm.com/) for rush printing our order, despite us not having an Earthing customer account. He wrote us: “Sometimes unbureaucratic action is necessary to help a customer. I hope my trust will not be disappointed.”
 
 Q: Don’t German people like bureaucracy?
 
@@ -321,7 +330,7 @@ A: Harald doesn’t. He is wonderful.
 
 Q: Anyone else you would like to thank?
 
-A: We would like to thank Artisania [link] for our rehearsal space. We would like to thank Fusion festival and the entire crew of the Cloud Cuckoo stage for welcoming us so warmly. We would like to thank all our fans, both the old and new ones we have assimilated.
+A: We would like to thank [Artisania](https://www.artistania.org/) for our rehearsal space. We would like to thank Fusion festival and the entire crew of the Cloud Cuckoo stage for welcoming us so warmly. We would like to thank all our fans, both the old and new ones we have assimilated.
 
 ## Cloud Kinski is Amazing
 
@@ -358,7 +367,7 @@ A: No.
 
 Q: At the end of your show, people ecstatically dance and many audience members receive the Cloud Kinski makeup. This is similar to religion.
 
-A: Music has many similarities to religion. People call Berghain their “church”. 
+A: Music has many similarities to religion. People call [Berghain](https://www.berghain.berlin/) their “church”. 
 
 Q: But you have a motto and a philosophy about art, which sounds like a spiritual organisation, and your fans are crazy about you.
 
