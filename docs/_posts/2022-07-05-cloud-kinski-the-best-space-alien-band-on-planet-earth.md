@@ -10,7 +10,10 @@ tags: [featured]
 Cloud Kinski is the best space alien band on planet Earth. They just released their first album Nanu on all Earthling streaming platforms. Cloud Kinski recently played Fusion Festival in Europe to a packed audience at the Cloud Cuckoo stage, a full aeroplane hangar. 30 Earthlings were eagerly assimilated during the show.
 
 {:refdef: style="text-align: center;"}
-![](/assets/images/ck-dancing1.gif)
+ ![](/assets/images/ck-dancing1.gif)
+{: refdef}
+{:refdef: style="text-align: center;"}
+*Cloud Kinski at Fusion Festival.*
 {: refdef}
 
 
@@ -209,6 +212,9 @@ A: During our song “I Feel Giorgio”, our performers apply Cloud Kinski makeu
 {:refdef: style="text-align: center;"}
 ![](/assets/images/ck-assimilate1.gif)
 {: refdef}
+{:refdef: style="text-align: center;"}
+*Assimilating eager Earthlings.*
+{: refdef}
 
 Q: Why paint your face? Why wear a mask?
 
@@ -280,6 +286,13 @@ Q: How did that go?
 A: We realised that Earthlings don’t like many words in their literature, so we simplified.
 Here is new literature we created for Fusion fest.
 [images of new literature. Maybe a gif of the foldout]
+
+{:refdef: style="text-align: center;"}
+![](/assets/images/ck-flyer-fusion1.gif)
+{: refdef}
+{:refdef: style="text-align: center;"}
+*Literature for Fusion festival.*
+{: refdef}
 
 Q: Was that successful?
 
