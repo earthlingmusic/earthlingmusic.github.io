@@ -133,7 +133,7 @@ A: Yes, Cloud Kinski can use Ableton.
 
 Q: Does Cloud Kinski use Ableton?
 
-A: Our first album Nanu is our based upon live recordings from our shows. We used our favourite multitrack recording takes for the album, except for “French Song / emoticone”. Our favourite take of French Song was recorded the first rehearsal we improvised this song. We post-produced the live recordings using Ableton.
+A: Our first album Nanu is our based upon live recordings from our shows. We used our favourite multitrack recording takes for the album, except for “French Song / émoticône”. Our favourite take of French Song was recorded the first rehearsal we improvised this song. We post-produced the live recordings using Ableton.
 
 Q: What does Nanu mean? Is it an alien word?
 
@@ -344,6 +344,6 @@ Q: Keeping it real is very important.
 
 This interview was edited for brevity.
 
-Published in “Earthling Music Sounds And Tones”, a newspaper about Earthling music, Earthling sounds, and Earthling tones, written by Earthlings for Earthlings. “Earthling Musics Sounds And Tones” is available in print everywhere in the Andromeda nebula. It is only available on planet Earth using the internet.
+Published in “Earthling Music Sounds And Tones”, a newspaper about Earthling music, Earthling sounds, and Earthling tones, written by Earthlings for Earthlings. “Earthling Music Sounds And Tones” is available in print everywhere in the Andromeda nebula. It is only available on planet Earth using the internet.
 
 Text and images (besides author image) are released under a Creative Commons Attribution 4.0 International license.
