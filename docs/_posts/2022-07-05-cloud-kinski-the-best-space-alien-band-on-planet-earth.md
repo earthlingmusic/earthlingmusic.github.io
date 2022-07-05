@@ -2,7 +2,7 @@
 layout: post
 title:  "Cloud Kinski: The Best Space Alien Band on Planet Earth"
 author: hume
-categories: [ tutorial ]
+categories: [ music ]
 image: assets/images/17.jpg
 tags: [featured]
 ---
