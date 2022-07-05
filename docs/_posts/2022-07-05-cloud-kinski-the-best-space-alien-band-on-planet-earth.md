@@ -27,7 +27,7 @@ A: Yes.
 
 Q: How will you assimilate as many eager organisms in the universe as possible?
 
-A: We believe the best way to do this is to become the best band in the universe. As the Beatles said, “Music makes you lose control.”
+A: We believe the best way to do this is to become the best band in the universe. As the Beatles said, “Music make you lose control.”
 
 Q: How will you do this?
 
