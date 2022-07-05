@@ -9,8 +9,9 @@ tags: [featured]
 
 Cloud Kinski is the best space alien band on planet Earth. They just released their first album Nanu on all Earthling streaming platforms. Cloud Kinski recently played Fusion Festival in Europe to a packed audience at the Cloud Cuckoo stage, a full aeroplane hangar. 30 Earthlings were eagerly assimilated during the show.
 
-Cloud Kinski are Real Space Aliens
+## Cloud Kinski are Real Space Aliens
 
+> Our goal is to consensually assimilate as many eager organisms in the universe as possible.
 
 Q: Hi Cloud Kinski, are you real space aliens?
 
@@ -44,7 +45,10 @@ Q: It has no name in Earthling languages?
 
 A: No, it has no name at all. We just refer to it using galactic coordinates.
 
-The Music of Cloud Kinski
+
+## The Music of Cloud Kinski
+
+> Our electronic music must make everybody on planet Earth dance.
 
 Q: Why do you play on planet Earth?
 
@@ -102,30 +106,10 @@ Q: Amazing! Where do you live?
 
 A: Berlin. It is a very safe place for aliens. And it has the best music on planet Earth.
 
-Instruments of Cloud Kinski
 
-Q: What instruments does Cloud Kinski play?
+## Cloud Kinski Cannot DJ
 
-A: Cloud Simon is our drummer and he plays a Roland AIRA TR-8 and Moog Grandmother (formerly Moog Slim Phatty), controlled by an Arturia BeatStep Pro.
-Cloud Ash plays a Roland SH-101 and a Roland SH-01A. They are the meat and potatoes of the band.
-Cloud Joseph uses Omnisphere to sprinkle different spices on the mix.
-
-Q: Will Cloud Kinski become more analog?
-
-A: As you know, historically everything is digital. Everything is 0s and 1s. Everything is distinct and discrete. The emotion of one bit is independent of the value of other bits. Digital is safe and great.
-
-Q: Analog is new and analog is scary.
-
-A: Yes. The biological world is analog. Because analog is continuous, analog things are contagious.
-
-Q: Yuck.
-
-A: Yes. Bio viruses are contagious. For many Earthlings, feelings are contagious too.
-
-Q: Gross.
-
-A: Yes. But ideas are also contagious. Musical heritage, art tropes, and mind memes are contagious. We embrace analog because viral marketing is the most effective and contagious way to assimilate Earthlings.
-Cloud Kinski Cannot DJ
+> DJs can do anything.
 
 Q: Why are you so envious of DJs?
 
@@ -159,7 +143,10 @@ Q: Nanu.
 
 A: Nanu.
 
-History of Assimilation
+
+## History of Assimilation
+
+> [Fusion Festival] is the best music festival we have ever assimilated.
 
 Q: How are you different than Earthling musicians?
 
@@ -196,7 +183,11 @@ A: We are the thirteenth lineup of Cloud Kinski. Cloud Kinksi was formed in 1971
 Q: Who is in the current lineup?
 
 A: We currently have three musicians and as many extra performers as each show’s budget will permit.
-Fusion Festival Show
+
+
+## Fusion Festival Show
+
+> We assimilated 30 eager audience members during the show.
 
 Q: Tell us about your Fusion show. Besides your three musicians, how many extra performers did you have at your Fusion show?
 
@@ -226,7 +217,11 @@ A: We are sorry and will assimilate better next time.
 Q: Do you care about how many followers you have on social media?
 
 A: Followers don’t count. Our core success metric is how many Earthlings we have assimilated.
-Philosophy
+
+
+## Philosophy
+
+> Yes you can. Go forth and art, the Cloud Kinski way. You can do it!
 
 Q: What is the motto of Cloud Kinski?
 
@@ -293,7 +288,10 @@ A: Harald doesn’t. He is wonderful.
 Q: Anyone else you would like to thank?
 
 A: We would like to thank Artisania [link] for our rehearsal space. We would like to thank Fusion festival and the entire crew of the Cloud Cuckoo stage for welcoming us so warmly. We would like to thank all our fans, both the old and new ones we have assimilated.
-Cloud Kinski is Amazing
+
+## Cloud Kinski is Amazing
+
+> We are currently the best space alien band on planet Earth, besides Kraftwerk.
 
 Q: You are amazing, Cloud Kinski.
 
@@ -314,7 +312,11 @@ A: As far as we know, we are the only band in Berlin. Thus, we are the best band
 Q: Can I touch you?
 
 A: Yes.
-Keeping It Real
+
+
+## Keeping It Real
+
+> The Beatles are the most successful insects on planet Earth. 
 
 Q: Are you starting a religion?
 
@@ -338,7 +340,7 @@ A: No, because we want to keep it real.
 
 Q: Keeping it real is very important.
 
-A: Yes.
+<br>
 
 This interview was edited for brevity.
 
