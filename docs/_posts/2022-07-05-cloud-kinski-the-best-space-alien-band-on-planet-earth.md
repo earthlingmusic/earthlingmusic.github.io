@@ -279,7 +279,14 @@ Q: How do you spread the Cloud Kinski philosophy?
 
 A: Besides our music, we noticed that Earthlings sometimes distribute tiny paper literature to disseminate their ideas.
 We were recently at [redacted] festival in California recently, where we did not play. We created Cloud Kinski literature for that fest.
-[image of some flyers]
+
+{:refdef: style="text-align: center;"}
+ ![](/assets/images/bss1.jpg)
+ ![](/assets/images/bss2.jpg)
+{: refdef}
+{:refdef: style="text-align: center;"}
+*This literature was too verbose for Earthlings.*
+{: refdef}
 
 Q: How did that go?
 
