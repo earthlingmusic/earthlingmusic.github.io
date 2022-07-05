@@ -72,7 +72,7 @@ A: That is great! Creativity is a commons.
 
 Q: Are there copyright issues?
 
-A: There are 247,678,000,000,419 possible songs in the universe. Some songs have 0% similarity with Earthling songs, and some songs have 100% similarity with Earthling songs. We have calculated that our songs should have maximum similarity to Earthling songs with maximal ear-worms, while allowing us to continue to release music and assimilate Earthlings.
+A: There are 82,500,000,000,000,000,000 possible 10-note melodies in the universe, and many more possible songs. Some songs have 0% similarity with Earthling songs, and some songs have 100% similarity with Earthling songs. We have calculated that our songs should have maximum similarity to Earthling songs with maximal ear-worms, while allowing us to continue to release music and assimilate Earthlings.
 
 Q: But isn’t there a legal gray area of what percentage similarity is fair use?
 
