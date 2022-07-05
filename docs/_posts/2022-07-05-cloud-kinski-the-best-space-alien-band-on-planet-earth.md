@@ -275,7 +275,6 @@ A: Cloud Simon is the Cloud Mother (and sometimes Cloud Daddy). Cloud Joseph is 
 Q: Where else is the Kinski triad observed?
 
 A: This pattern is everywhere on planet Earth. For example, the Holy Trinity of Dub music is King Tubby (1946-1989, the Mother who has the golden touch), Scientist (1960-, the Son who further innovated on studio techniques), and Lee "Scratch" Perry (1936-2021, the Holy Ghost and also a space alien). The Ayurvedic Doshas are Kapha mother energy, Pitta son energy, and Vata Holy Ghost energy. Et cetera.
-[flyer image]
 
 Q: Can anyone Cloud Kinski?
 
