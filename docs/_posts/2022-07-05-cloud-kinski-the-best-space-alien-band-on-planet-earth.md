@@ -285,8 +285,13 @@ Q: How did that go?
 
 A: We realised that Earthlings don’t like many words in their literature, so we simplified.
 Here is new literature we created for Fusion fest.
-[images of new literature. Maybe a gif of the foldout]
 
+{:refdef: style="text-align: center;"}
+ ![](/assets/images/fusionA1.jpg)
+ ![](/assets/images/fusionA2.jpg)
+ ![](/assets/images/fusionA3.jpg)
+ ![](/assets/images/fusionA4.jpg)
+{: refdef}
 {:refdef: style="text-align: center;"}
 ![](/assets/images/ck-flyer-fusion1.gif)
 {: refdef}
