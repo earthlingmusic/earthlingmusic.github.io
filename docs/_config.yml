@@ -3,7 +3,7 @@ name: 'Earthling Music Sounds And Tones'
 description: 'A newspaper about Earthling music, Earthling sounds, and Earthling tones, written by Earthlings for Earthlings. “Earthling Musics Sounds And Tones” is available in print everywhere in the Andromeda nebula. It is only available on planet Earth using the internet.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-url: https://turian.github.io/
+#url: https://turian.github.io/
 baseurl: '/earthlingmusic/'
 #disqus: 'demowebsite'
 #email: 'wowthemesnet@gmail.com'
