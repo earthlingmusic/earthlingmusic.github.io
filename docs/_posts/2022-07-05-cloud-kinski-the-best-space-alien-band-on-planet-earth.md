@@ -263,7 +263,7 @@ A: A perfect traditional Kinski has *three* creative forces.
 
 Q: So Cloud Kinski rejects the binary?
 
-A: Yes.
+A: Yes. A trichotomy is more natural.
 
 Q: What are the three creative forces?
 
