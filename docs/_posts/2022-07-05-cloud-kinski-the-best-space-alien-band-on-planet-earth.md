@@ -64,7 +64,7 @@ A: Yes.
 
 Q: Where do you get your ideas for your music?
 
-A: It takes 700 light years for Earth music radio waves to reach our planet. We have tried to descramble the Earth music as well as possible and imitate them for our songs.
+A: It takes 27 light years for Earth music radio waves to reach our planet. We have tried to descramble the Earth music as well as possible and imitate them for our songs.
 
 Q: Is that okay?
 
