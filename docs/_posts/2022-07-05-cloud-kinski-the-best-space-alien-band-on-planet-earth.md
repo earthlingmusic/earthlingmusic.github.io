@@ -23,7 +23,11 @@ tags: [featured]
 
 Q: Hi Cloud Kinski, are you real space aliens?
 
-A: Yes, we are real space aliens. Are you a real Earthling journalist human, Mr. Humon?
+A: Yes, we are real space aliens.
+
+Q: Then why do you look like humans with crazy cool makeup and costumes?
+
+A: That is our disguise. Are you a real Earthling journalist human, Mr. Humon?
 
 Q: Yes, I am a real Earthling journalist human.  So what is your goal?
 
