@@ -355,7 +355,7 @@ A: This is no different than the Beatles. Even the Beatles had a motto: “Free 
 
 Q: Amazing! You are not a religion. Why are you so interested in the Beatles?
 
-A: Our understanding is that the Beatles are the most successful insects on planet Earth. We want to be like the Beatles, but space aliens instead of insects.
+A: Our understanding is that the [Beatles](https://en.wikipedia.org/wiki/Beetle) are the most successful insects on planet Earth. We want to be like the Beatles, but space aliens instead of insects.
 
 Q: Should you pretend to be insects?
 
