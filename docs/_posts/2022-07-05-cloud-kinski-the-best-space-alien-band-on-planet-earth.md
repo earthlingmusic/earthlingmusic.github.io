@@ -160,7 +160,7 @@ A: Nanu.
 
 Q: How are you different than Earthling musicians?
 
-A: Earthling musicians try to be mysterious. We believe this is an error. We want to be as forthcoming as possible. Our calculations demonstrate this is optimal.
+A: Earthling musicians try to be mysterious or cool. We believe this is an error and an impediment to success and happiness. Our calculations demonstrate that authenticity is optimal.
 
 Q: Where will Cloud Kinski play?
 
@@ -168,7 +168,7 @@ A: We will assimilate any Earthling venue with an audience that wants to dance i
 
 Q: What is Fusion Festival?
 
-A: Fusion Festival is a festival with over 70,000 attendees that has many dissimilarities from [The Burning Man](https://burningman.org/). It is the best music festival we have ever assimilated.
+A: Fusion Festival is a festival with over 70,000 attendees that has many dissimilarities from [The Burning Man](https://burningman.org/). Fusion Festival is the best music festival we have ever assimilated.
 
 Q: Will you assimilate other music festivals?
 
