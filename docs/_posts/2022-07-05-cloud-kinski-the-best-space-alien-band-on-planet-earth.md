@@ -365,6 +365,15 @@ A: No, because we want to keep it real.
 
 Q: Keeping it real is very important.
 
+{:refdef: style="text-align: center;"}
+ ![](/assets/images/Coleoptera_collage.jpg)
+{: refdef}
+{:refdef: style="text-align: center;"}
+*The Beatles.*
+{: refdef}
+
+
+
 <br>
 
 This interview was edited for brevity.
