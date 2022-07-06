@@ -37,21 +37,9 @@ Q: How will you assimilate as many eager organisms in the universe as possible?
 
 A: We believe the best way to do this is to become the best band in the universe. As the Beatles said, “Music make you lose control.”
 
-Q: How will you do this?
-
-A: We embrace all ways of efficiently scaling production and distribution of our music and art philosophy.
-
-Q: Will you grow too quickly, metastasize, become malignant?
-
-A: No, we will grow as big as possible that is harmless, and no bigger.
-
 Q: Where are you from?
 
 A: Our tiny lonely forgotten planet has no name.
-
-Q: It has no name in Earthling languages?
-
-A: No, it has no name at all. We just refer to it using galactic coordinates.
 
 
 ## The Music of Cloud Kinski
@@ -80,7 +68,7 @@ A: That is great! Creativity is a commons.
 
 Q: Are there copyright issues?
 
-A: There are 82,500,000,000,000,000,000 possible 10-note melodies in the universe, and many more possible songs. Some songs have 0% similarity with Earthling songs, and some songs have 100% similarity with Earthling songs. We have calculated that our songs should have maximum similarity to Earthling songs with maximal ear-worms, while allowing us to continue to release music and assimilate Earthlings.
+A: There are 888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888 possible songs. We selected 11 songs we believe will please Eartlings.
 
 Q: But isn’t there a legal gray area of what percentage similarity is fair use?
 
@@ -166,17 +154,13 @@ Q: Where will Cloud Kinski play?
 
 A: We will assimilate any Earthling venue with an audience that wants to dance if we are paid a fair sustainable amount of Earthling money.
 
-Q: Do you accept crypto?
-
-A: Yes. We currently immediately exchange crypto into Earthling money.
-
 Q: What is Fusion Festival?
 
 A: Fusion Festival is a festival with over 70,000 attendees that has many dissimilarities from [Burning Man](https://burningman.org/). It is the best music festival we have ever assimilated.
 
 Q: Will you assimilate other music festivals?
 
-A: Please invite us to assimilate your music festival and it will become the new best music festival we have ever assimilated.
+A: Please invite us to assimilate your music festival.
 
 Q: Are you related to Klaus Kinski?
 
@@ -188,7 +172,7 @@ A: We wanted to call the band Donald Trumpet, but that name was taken.
 
 Q: How long has Cloud Kinski been around?
 
-A: We are the thirteenth lineup of Cloud Kinski. Cloud Kinksi was formed in 1971 in Cologne by ex-Can band members, with the prescient idea of starting a Deutsche rap outfit. Unfortunately, this was too ahead of its time. We saw little success for a number of years.
+A: We are the thirteenth lineup of Cloud Kinski. Cloud Kinksi was formed in 1971 in Cologne by ex-Can band members, with the prescient idea of starting a Deutsche rap outfit. Unfortunately, this was too ahead of its time. We saw little success for a number of Earth-years.
 
 Q: Who is in the current lineup?
 
@@ -209,7 +193,7 @@ A: We assimilated 30 eager audience members during the show.
 
 Q: How do you assimilate audience members?
 
-A: During our song “I Feel Giorgio”, our performers apply Cloud Kinski makeup to eager audience members.
+A: During our song “I Feel Giorgio”, our performers applied Cloud Kinski makeup to eager audience members.
 
 {:refdef: style="text-align: center;"}
 ![](/assets/images/ck-assimilate1.gif)
@@ -272,14 +256,12 @@ Q: Who are the three creative forces in your band?
 
 A: Cloud Simon is the Cloud Mother (and sometimes Cloud Daddy). Cloud Joseph is the Cloud Son. Cloud Ashiq is the Cloud Holy Ghost.
 
-Q: Where else is the Kinski triad observed?
-
-A: This pattern is everywhere on planet Earth. For example, the Holy Trinity of Dub music is King Tubby (1946-1989, the Mother who has the golden touch), Scientist (1960-, the Son who further innovated on studio techniques), and Lee "Scratch" Perry (1936-2021, the Holy Ghost and also a space alien). The Ayurvedic Doshas are Kapha mother energy, Pitta son energy, and Vata Holy Ghost energy. Et cetera.
-
 Q: Can anyone Cloud Kinski?
 
 A: Yes you can. Go forth and art, the Cloud Kinski way. You can do it!
 
+
+<!---
 Q: How do you spread the Cloud Kinski philosophy?
 
 A: Besides our music, we noticed that Earthlings sometimes distribute tiny paper literature to disseminate their ideas.
@@ -330,6 +312,7 @@ A: Harald doesn’t. He is wonderful.
 Q: Anyone else you would like to thank?
 
 A: We would like to thank [Artisania](https://www.artistania.org/) for our rehearsal space. We would like to thank Fusion festival and the entire crew of the Cloud Cuckoo stage for welcoming us so warmly. We would like to thank all our fans, both the old and new ones we have assimilated.
+-->
 
 ## Cloud Kinski is Amazing
 
