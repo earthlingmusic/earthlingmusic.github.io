@@ -160,11 +160,15 @@ A: We will assimilate any Earthling venue with an audience that wants to dance i
 
 Q: What is Fusion Festival?
 
-A: Fusion Festival is a festival with over 70,000 attendees that has many dissimilarities from [Burning Man](https://burningman.org/). It is the best music festival we have ever assimilated.
+A: Fusion Festival is a festival with over 70,000 attendees that has many dissimilarities from the [Burning Man](https://burningman.org/). It is the best music festival we have ever assimilated.
 
 Q: Will you assimilate other music festivals?
 
 A: Please invite us to assimilate your music festival.
+
+Q: Will you assimilate Fusion festival again?
+
+A: We would love to assimilate Fusion festival again!
 
 Q: Are you related to Klaus Kinski?
 
