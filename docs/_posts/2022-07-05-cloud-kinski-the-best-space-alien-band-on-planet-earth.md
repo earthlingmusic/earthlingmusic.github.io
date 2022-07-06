@@ -48,7 +48,7 @@ A: Our tiny lonely forgotten planet has no name.
 
 ## The Music of Cloud Kinski
 
-> We never want to go home.
+> Our electronic music must make everybody on planet Earth dance.
 
 Q: Why do you play on planet Earth?
 
