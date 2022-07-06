@@ -382,8 +382,6 @@ A: No, because we want to keep it real.
 
 Q: Keeping it real is very important.
 
-Follow, listen, and share [Cloud Kinski](https://linktr.ee/cloudkinski).
-
 {:refdef: style="text-align: center;"}
  ![](/assets/images/Coleoptera_collage.jpg)
 {: refdef}
@@ -391,8 +389,8 @@ Follow, listen, and share [Cloud Kinski](https://linktr.ee/cloudkinski).
 *The Beatles.*
 {: refdef}
 
-
-
 <br>
+
+Follow, listen, and share [Cloud Kinski](https://linktr.ee/cloudkinski).
 
 This interview was edited for brevity.
