@@ -84,7 +84,9 @@ A: We have computed the probability of this. The worst case scenario is that the
 
 Q: Are you on a record label?
 
-A: We are not on an Earthling record label, but we would like to be. We are currently signed to The Cloud Kinski Explosion Extravaganza Universal Unlimited Dog And Pony Show label from our planet.
+A: We are not on an Earthling record label, but we would like to be. We are currently signed to
+The Cloud Kinski Explosion Extravaganza Universal Unlimited Intergalactic Dog-and-Pony Show
+label from our planet.
 
 Q: What is the music industry like on your planet?
 
