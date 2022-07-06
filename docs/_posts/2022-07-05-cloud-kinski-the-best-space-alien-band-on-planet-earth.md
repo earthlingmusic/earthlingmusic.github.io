@@ -137,7 +137,7 @@ A: Our first album Nanu is based upon live recordings from our shows. We used ou
 
 Q: What does Nanu mean? Is it an alien word?
 
-A: Nanu is Bengali slang for “grandmother”.
+A: Nanu is Bengali slang for “(maternal) grandmother”.
 
 Q: Nanu.
 
