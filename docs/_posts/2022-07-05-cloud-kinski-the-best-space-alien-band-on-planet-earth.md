@@ -129,7 +129,7 @@ A: Yes, Cloud Kinski can use Ableton.
 
 Q: Does Cloud Kinski use Ableton?
 
-A: Our first album Nanu is our based upon live recordings from our shows. We used our favourite multitrack recording takes for the album, except for [“French Song / émoticône”](https://soundcloud.com/cloudkinski/french-song-emoticone). Our favourite take of French Song was recorded the first rehearsal we improvised this song. We post-produced the live recordings using Ableton.
+A: Our first album Nanu is our based upon live recordings from our shows. We used our favourite multitrack recording takes for the album, except for “French Song / émoticône”. Our favourite take of French Song was recorded the first rehearsal we improvised this song. We post-produced the live recordings using Ableton.
 
 Q: What does Nanu mean? Is it an alien word?
 
