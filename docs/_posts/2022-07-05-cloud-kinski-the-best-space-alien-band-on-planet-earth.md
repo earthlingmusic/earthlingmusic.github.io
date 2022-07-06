@@ -189,7 +189,7 @@ A: We currently have three musicians and as many extra performers as each showâ€
 
 Q: Tell us about your Fusion show. Besides your three musicians, how many extra performers did you have at your Fusion show?
 
-A: We brought 10 extra performers to Fusion festival. [link] By the end of the show we had 40 extra performers.
+A: We brought 10 extra performers to Fusion festival. By the end of the show we had 40 extra performers.
 
 Q: How did you increase the number of extra performers during the show from 10 to 40?
 
