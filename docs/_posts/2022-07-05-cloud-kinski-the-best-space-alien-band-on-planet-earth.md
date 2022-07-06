@@ -146,7 +146,14 @@ A: Nanu.
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1294790050&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/cloudkinski" title="Cloud Kinski" target="_blank" style="color: #cccccc; text-decoration: none;">Cloud Kinski</a> · <a href="https://soundcloud.com/cloudkinski/french-song-emoticone" title="French Song / émoticône" target="_blank" style="color: #cccccc; text-decoration: none;">French Song / émoticône</a></div>
 
 
-## History of Assimilation
+## Fusion Festival
+
+{:refdef: style="text-align: center;"}
+![](/assets/images/fusionA4.jpg)
+{: refdef}
+{:refdef: style="text-align: center;"}
+*Gibberish that Cloud Kinski gave us.*
+{: refdef}
 
 > [Fusion Festival] is the best music festival we have ever assimilated.
 
@@ -170,13 +177,16 @@ Q: Will you assimilate Fusion festival again?
 
 A: We would love to assimilate Fusion festival again!
 
-Q: Are you related to Klaus Kinski?
 
-A: No relation.
+## History of Cloud Kinski
 
 Q: Why is your band called Cloud Kinski?
 
 A: We wanted to call the band Donald Trumpet, but that name was taken.
+
+Q: Are you related to Klaus Kinski?
+
+A: No relation.
 
 Q: How long has Cloud Kinski been around?
 
