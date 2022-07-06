@@ -148,14 +148,14 @@ A: Nanu.
 
 ## Fusion Festival
 
+> [Fusion Festival] is the best music festival we have ever assimilated.
+
 {:refdef: style="text-align: center;"}
 ![](/assets/images/fusionA4.jpg)
 {: refdef}
 {:refdef: style="text-align: center;"}
 *Gibberish that Cloud Kinski gave us.*
 {: refdef}
-
-> [Fusion Festival] is the best music festival we have ever assimilated.
 
 Q: How are you different than Earthling musicians?
 
