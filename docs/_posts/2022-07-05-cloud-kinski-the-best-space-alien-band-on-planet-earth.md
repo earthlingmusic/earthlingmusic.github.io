@@ -191,7 +191,7 @@ A: No relation.
 
 Q: How long has Cloud Kinski been around?
 
-A: We are the thirteenth lineup of Cloud Kinski. Cloud Kinksi was formed in 1971 in Cologne by ex-Can band members, with the prescient idea of starting a Deutsche rap outfit. Unfortunately, this was too ahead of its time. We saw little success for a number of Earth-years.
+A: We are the thirteenth lineup of Cloud Kinski. Cloud Kinksi was formed in 1971 in Cologne by ex-Can band members, with the prescient idea of starting a Deutsche rap outfit. Unfortunately, this concept was too ahead of its time. We saw little success for a number of Earth-years and decided to switch to electro music.
 
 Q: Who is in the current lineup?
 
@@ -374,7 +374,7 @@ A: This is no different than the Beatles. Even the Beatles had a motto: “Free 
 
 Q: Amazing! You are not a religion. Why are you so interested in the Beatles?
 
-A: Our understanding is that the [Beatles](https://en.wikipedia.org/wiki/Beetle) are the most successful insects on planet Earth. We want to be like the Beatles, but space aliens instead of insects.
+A: Our understanding is that [The Beatles](https://en.wikipedia.org/wiki/Beetle) are the most successful insects on planet Earth. We want to be like the Beatles, but space aliens instead of insects.
 
 Q: Should you pretend to be insects?
 
