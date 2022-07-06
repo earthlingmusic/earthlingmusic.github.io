@@ -7,7 +7,7 @@ image: assets/images/cloud-kinski-nanu.jpg
 tags: [featured]
 ---
 
-[Cloud Kinski](https://linktr.ee/cloudkinski) is the best space alien band on planet Earth. They just released their first album Nanu on all Earthling streaming platforms. Cloud Kinski recently played [Fusion Festival](https://www.fusion-festival.de/de/2022/start) in Europe to a packed audience at the Cloud Cuckoo stage, a full aeroplane hangar. 30 Earthlings were eagerly assimilated during the show.
+[Cloud Kinski](https://linktr.ee/cloudkinski) is the best space alien band on planet Earth. They just released their first album [Nanu](https://soundcloud.com/cloudkinski/sets/nanu) on all Earthling streaming platforms. Cloud Kinski recently played [Fusion Festival](https://www.fusion-festival.de/de/2022/start) in Europe to a packed audience at the Cloud Cuckoo stage, a full aeroplane hangar. 30 Earthlings were eagerly assimilated during the show.
 
 {:refdef: style="text-align: center;"}
  ![](/assets/images/ck-dancing1.gif)
