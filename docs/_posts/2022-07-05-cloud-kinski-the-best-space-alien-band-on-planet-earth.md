@@ -68,7 +68,7 @@ A: That is great! Creativity is a commons.
 
 Q: Are there copyright issues?
 
-A: There are 888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888 possible songs. We selected 11 songs we believe will please Eartlings.
+A: There are 888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888 possible songs. We selected 11 songs we believe will please Earthlings.
 
 Q: But isn’t there a legal gray area of what percentage similarity is fair use?
 
@@ -148,7 +148,7 @@ A: Nanu.
 
 Q: How are you different than Earthling musicians?
 
-A: Earthling musicians try to be mysterious. We believe this is an error. We want to be as vulnerable as possible. Our calculations demonstrate this is optimal.
+A: Earthling musicians try to be mysterious. We believe this is an error. We want to be as forthcoming as possible. Our calculations demonstrate this is optimal.
 
 Q: Where will Cloud Kinski play?
 
