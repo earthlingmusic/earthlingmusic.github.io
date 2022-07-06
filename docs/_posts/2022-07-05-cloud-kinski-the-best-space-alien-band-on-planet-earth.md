@@ -382,6 +382,8 @@ A: No, because we want to keep it real.
 
 Q: Keeping it real is very important.
 
+Follow, listen, and share [Cloud Kinski](https://linktr.ee/cloudkinski).
+
 {:refdef: style="text-align: center;"}
  ![](/assets/images/Coleoptera_collage.jpg)
 {: refdef}
