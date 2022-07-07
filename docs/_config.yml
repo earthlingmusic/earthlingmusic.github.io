@@ -39,6 +39,14 @@ authors:
       email:          humehumon@gmail.com
       twitter:        https://twitter.com/humehumon
  
+    homero:
+      name:           Homero Sapienzales
+      site:           https://www.humehumon.net
+      avatar:         assets/images/hume-humon.jpeg
+      bio:            "Homero Sapienzales es un periodista terrícola humano que informa sobre música terrícola, sonidos terrícolas y tonos terrícolas."
+      email:          humehumon@gmail.com
+      twitter:        https://twitter.com/humehumon
+ 
 # Defaults
 defaults:
 
