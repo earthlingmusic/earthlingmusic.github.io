@@ -3,7 +3,7 @@ layout: post
 title:  "Space Is Good"
 author: elon
 categories: [ space ]
-image: /assets/images/Hubble_Ultra_Deep_Field_part_d.jpg
+image: assets/images/Hubble_Ultra_Deep_Field_part_d.jpg
 tags: []
 ---
 
