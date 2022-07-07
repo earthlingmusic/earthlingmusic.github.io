@@ -228,6 +228,9 @@ Q: How many audience members were you able to assimilate during your Fusion show
 A: We were only able to assimilate 30 audience members during our show at Fusion, even though we played the Cloud Cuckoo stage, a full aeroplane hangar.
 
 {:refdef: style="text-align: center;"}
+ ![](/assets/images/fusion-cloud-cuckoo-stage2.gif)
+{: refdef}
+{:refdef: style="text-align: center;"}
  ![](/assets/images/fusion-cloud-cuckoo-stage.gif)
 {: refdef}
 {:refdef: style="text-align: center;"}
