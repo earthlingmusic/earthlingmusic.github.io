@@ -4,7 +4,8 @@ description: 'A newspaper about Earthling music, Earthling sounds, and Earthling
 logo: 'assets/images/logo.png'
 #favicon: 'assets/images/favicon.ico'
 favicon: 'assets/images/icons8-earth-planet-office-96.png'
-url: https://earthlingmusic.github.io/
+url: https://earthlingmusic.com/
+#url: https://earthlingmusic.github.io/
 #baseurl: '/earthlingmusic/'
 baseurl: ''
 #disqus: 'demowebsite'
