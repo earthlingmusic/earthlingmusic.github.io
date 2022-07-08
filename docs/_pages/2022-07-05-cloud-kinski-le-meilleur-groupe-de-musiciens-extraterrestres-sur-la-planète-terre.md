@@ -166,7 +166,7 @@ Q : Où jouera Cloud Kinski ?
 
 R : Nous assimilerons n'importe quelle place terrienne avec un public qui a envie de danser si nous sommes payés de manière équitable et durable en argent terrien.
 
-Q : Qu'est-ce que le Festival Fusion?
+Q : Qu'est-ce que le Festival Fusion ?
 
 R : Le Festival Fusion est un festival qui compte plus de 70 000 participants et qui comporte de nombreuses différences par rapport au [Burning Man](https://burningman.org/). Le Festival Fusion est le meilleur festival de musique que nous avons pu assimiler.
 
