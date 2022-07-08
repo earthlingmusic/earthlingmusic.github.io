@@ -271,7 +271,7 @@ R : Oui. Une trichotomie est plus naturelle.
 
 Q : Quelles sont les trois forces créatrices ?
 
-R : Nous les appelons la Mère, le Fils et le Saint-Esprit. La Mère crée, crée, et crée encore davantage. Tout ce que vous faites est génial ! Le Fils utilise les outils et la technologie pour mettre votre art à l'échelle et le rendre plus grand. Le Saint-Esprit croit que si quelqu'un d'autre l'a fait, il faut le défaire. Ne vous inquiétez pas de "copier", vous pouvez toujours faire quelque chose d'original en le rendant plus compliqué.
+R : Nous les appelons la Mère, le Fils et le Saint-Esprit. La Mère crée, crée, et crée encore davantage. Tout ce que vous faites est génial ! Le Fils utilise les outils et la technologie pour mettre votre art à l'échelle et le rendre plus grand. Le Saint-Esprit croit que si quelqu'un d'autre l'a fait, il faut le défaire. Ne vous inquiétez pas de " copier, " vous pouvez toujours faire quelque chose d'original en le rendant plus compliqué.
 
 Q : Qui sont les trois forces créatives de votre groupe ?
 
