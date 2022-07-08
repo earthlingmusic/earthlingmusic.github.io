@@ -388,7 +388,7 @@ Q: Ser sinceros es muy importante.
  ![](/assets/images/Coleoptera_collage.jpg)
 {: refdef}
 {:refdef: style="text-align: center;"}
-*The Beatles (los escarabajos, coleópteros) son el orden más grande de la clase insecta.*
+*Los Beatles (los escarabajos, coleópteros) son el orden más grande de la clase insecta.*
 {: refdef}
 
 <br>
