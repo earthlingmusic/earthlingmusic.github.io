@@ -148,7 +148,7 @@ A: Nanu.
 
 ## Fusion Festival
 
-> [Fusion Festival] es el mejor festival musical que hemos incorporado.
+> [Festival Fusion] es el mejor festival musical que hemos asimilado.
 
 {:refdef: style="text-align: center;"}
 ![](/assets/images/fusionA4.jpg)
@@ -217,7 +217,7 @@ A: Durante nuestra canción «I Feel Giorgio», nuestros artistas aplicaron maqu
 ![](/assets/images/ck-assimilate1.gif)
 {: refdef}
 {:refdef: style="text-align: center;"}
-*Incorporando terrícolas entusiastas.*
+*Asimilando terrícolas entusiastas.*
 {: refdef}
 
 Q: ¿A cuántos miembros del público pudieron asimilar durante el espectáculo Fusion?
@@ -231,7 +231,7 @@ A: Pudimos asimilar solo a 30 miembros del público durante nuestro espectáculo
  ![](/assets/images/fusion-cloud-cuckoo-stage.gif)
 {: refdef}
 {:refdef: style="text-align: center;"}
-*Miembros del público no incorporados.*
+*Miembros del público no asimilados.*
 {: refdef}
 
 Q: En nombre del planeta Tierra, nos decepciona que hayan asimilado tan pocos terrícolas a su espectáculo Fusion.
