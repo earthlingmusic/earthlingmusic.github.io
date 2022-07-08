@@ -369,7 +369,7 @@ A: No.
  
 Q: Al final de un espectáculo, la gente baila extasiada y muchos miembros del público reciben el maquillaje de Cloud Kinski. Esto es parecido a una religión.
  
-A: La música tiene muchas similitudes con la religión. La gente llama a [Berghain](](https://www.berghain.berlin/)) su «iglesia».
+A: La música tiene muchas similitudes con la religión. La gente llama a [Berghain](https://www.berghain.berlin/) su «iglesia».
  
 Q: Pero ustedes tienen un lema y una filosofía sobre el arte, lo cual suena como a una organización espiritual, y sus fans los adoran.
  

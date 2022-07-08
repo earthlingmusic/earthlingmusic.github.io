@@ -47,6 +47,15 @@ authors:
       email:          humehumon@gmail.com
       twitter:        https://twitter.com/humehumon
  
+    hugo:
+      name:           Hugo Humiain
+      site:           https://www.humehumon.net
+      avatar:         assets/images/hume-humon.jpeg
+      bio:            "Hugo Humiain est un humain journaliste terrien, qui fait des reportages sur la musique terrienne, la musique terrienne et les tonalités terriennes."
+      email:          humehumon@gmail.com
+      twitter:        https://twitter.com/humehumon
+
+ 
 # Defaults
 defaults:
 
