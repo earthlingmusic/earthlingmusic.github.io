@@ -7,13 +7,13 @@ image: assets/images/cloud-kinski-nanu.jpg
 tags: []
 ---
 
-[Cloud Kinski](https://linktr.ee/cloudkinski) es una banda alienígena que toca en el planeta Tierra. El primero de julio, lanzaron su primer álbum [Nanu](https://soundcloud.com/cloudkinski/sets/nanu) en todas las plataformas terrícolas de streaming. Su álbum fue presentado mientras tocaban en el [Festival Fusión](https://www.fusion-festival.de/de/2022/start) ante un público repleto en el escenario Cloud Cuckoo, un hangar lleno de aviones. 30 terrícolas entusiastas fueron asimilados con éxito durante el espectáculo.
+[Cloud Kinski](https://linktr.ee/cloudkinski) es una banda alienígena que toca en el planeta Tierra. El primero de julio, lanzaron su primer álbum [Nanu](https://soundcloud.com/cloudkinski/sets/nanu) en todas las plataformas terrícolas de streaming. Su álbum fue presentado mientras tocaban en el [Fusion Festival (Festival Fusión)](https://www.fusion-festival.de/de/2022/start) ante un público repleto en el escenario Cloud Cuckoo, un hangar lleno de aviones. 30 terrícolas entusiastas fueron asimilados con éxito durante el espectáculo.
 
 {:refdef: style="text-align: center;"}
  ![](/assets/images/ck-dancing1.gif)
 {: refdef}
 {:refdef: style="text-align: center;"}
-*Cloud Kinski en el Festival Fusion.*
+*Cloud Kinski en el Fusion Festival.*
 {: refdef}
 
 
@@ -22,6 +22,7 @@ tags: []
 > Nuestro objetivo es asimilar, de manera consensuada, al mayor número posible de organismos entusiastas del universo.
 
 Q: Hola Cloud Kinski, ¿son ustedes verdaderos alienígenas espaciales?
+
 A: Sí, somos verdaderos alienígenas espaciales.
  
 Q: Entonces, ¿por qué parecen humanos con maquillaje y disfraces atractivos y alocados?
@@ -145,9 +146,9 @@ A: Nanu.
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1294790050&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/cloudkinski" title="Cloud Kinski" target="_blank" style="color: #cccccc; text-decoration: none;">Cloud Kinski</a> · <a href="https://soundcloud.com/cloudkinski/french-song-emoticone" title="French Song / émoticône" target="_blank" style="color: #cccccc; text-decoration: none;">French Song / émoticône</a></div>
 
 
-## Festival Fusion
+## Fusion Festival
 
-> [Festival Fusion] es el mejor festival musical que hemos incorporado.
+> [Fusion Festival] es el mejor festival musical que hemos incorporado.
 
 {:refdef: style="text-align: center;"}
 ![](/assets/images/fusionA4.jpg)
@@ -196,7 +197,7 @@ Q: ¿Quién se encuentra en la agrupación actual?
 A: Contamos actualmente con tres músicos, y muchos artistas adicionales de acuerdo al presupuesto de cada espectáculo.
 
 
-## Espectáculo de Festival Fusion
+## Espectáculo de Fusion Festival
 
 > Asimilamos 30 miembros entusiastas del público durante el espectáculo.
 
