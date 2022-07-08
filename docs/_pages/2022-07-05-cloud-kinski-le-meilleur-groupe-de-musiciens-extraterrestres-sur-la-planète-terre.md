@@ -375,7 +375,7 @@ R : La musique a de nombreuses similitudes avec la religion. Les gens appellent 
 
 Q : Mais vous avez une devise et une philosophie sur l'art, qui ressemble à une organisation spirituelle, et vos fans sont fous de vous.
 
-R : Ce n'est pas différent des Beatles. Même les Beatles avaient une devise : "Free your ass and your mind will follow.".
+R : Ce n'est pas différent des Beatles. Même les Beatles avaient une devise : "Free your ass and your mind will follow."
 
 Q : Incroyable ! Vous n'êtes pas une religion. Pourquoi vous intéressez-vous tant aux Beatles ?
 
