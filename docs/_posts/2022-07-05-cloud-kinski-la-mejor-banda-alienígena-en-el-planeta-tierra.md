@@ -7,7 +7,7 @@ image: assets/images/cloud-kinski-nanu.jpg
 tags: []
 ---
 
-[Cloud Kinski](https://linktr.ee/cloudkinski) es una banda alienígena que toca en el planeta Tierra. El primero de julio, lanzaron su primer álbum [Nanu](https://soundcloud.com/cloudkinski/sets/nanu) en todas las plataformas terrícolas de streaming. Su álbum fue presentado mientras tocaban en el [Festival Fusión](https://www.fusion-festival.de/de/2022/start) ante un público repleto en el escenario Cloud Cuckoo, un hangar lleno de aviones. 30 terrícolas entusiastas se incorporaron con éxito durante el espectáculo.
+[Cloud Kinski](https://linktr.ee/cloudkinski) es una banda alienígena que toca en el planeta Tierra. El primero de julio, lanzaron su primer álbum [Nanu](https://soundcloud.com/cloudkinski/sets/nanu) en todas las plataformas terrícolas de streaming. Su álbum fue presentado mientras tocaban en el [Festival Fusión](https://www.fusion-festival.de/de/2022/start) ante un público repleto en el escenario Cloud Cuckoo, un hangar lleno de aviones. 30 terrícolas entusiastas fueron asimilados con éxito durante el espectáculo.
 
 {:refdef: style="text-align: center;"}
  ![](/assets/images/ck-dancing1.gif)
@@ -19,7 +19,7 @@ tags: []
 
 ## Cloud Kinski son verdaderos alienígenas espaciales
 
-> Nuestro objetivo es incorporar, de manera consensuada, al mayor número posible de organismos entusiastas del universo.
+> Nuestro objetivo es asimilar, de manera consensuada, al mayor número posible de organismos entusiastas del universo.
 
 Q: Hola Cloud Kinski, ¿son ustedes verdaderos alienígenas espaciales?
 A: Sí, somos verdaderos alienígenas espaciales.
@@ -30,13 +30,13 @@ A: Es para despistar. ¿Es usted un verdadero periodista terrícola humano, Sr. 
  
 Q: Sí, soy un verdadero periodista terrícola humano. Así que, ¿cuál es su objetivo?
  
-A: Somos inofensivos. Nuestro objetivo es incorporar, de manera consensuada, al mayor número posible de organismos entusiastas del universo.
+A: Somos inofensivos. Nuestro objetivo es asimilar, de manera consensuada, al mayor número posible de organismos entusiastas del universo.
  
 Q: Suena inofensivo.
  
 A: Así es.
  
-Q: ¿Cómo incorporará al mayor número posible de organismos entusiastas del universo?
+Q: ¿Cómo asimilarán al mayor número posible de organismos entusiastas del universo?
  
 A: Creemos que la mejor manera para hacerlo es convirtiéndonos en la mejor banda en el universo. Como los Beatles dijeron, «La música te hace perder el control».
  
@@ -69,7 +69,7 @@ Q: ¿Eso está bien?
 
 A: ¡Es genial! La creatividad es un bien común.
 
-Q: Are there copyright issues? ¿Existen problemas de derechos de autor?
+Q: ¿Existen problemas de derechos de autor?
 
 A: Existen 888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888 canciones posibles. Escogimos 11 canciones que creemos que complacerán a los terrícolas.
 
@@ -162,19 +162,19 @@ A: Los músicos terrícolas intentan ser misteriosos o geniales. Creemos  que es
  
 Q: ¿En dónde tocará Cloud Kinski?
  
-A: Incorporaremos a cualquier recinto terrícola con público que quiera bailar a cambio del pago de una cantidad justa de dinero terrícola.
+A: Asimilaremos cualquier recinto terrícola con público que quiera bailar a cambio del pago de una cantidad justa de dinero terrícola.
  
 Q: ¿Qué es el Fusion Festival (Festival Fusión)?
  
-A: El Fusion Festival es un festival con algo más de 70.000 asistentes que se diferencia mucho de [El Burning Man](https://burningman.org/). El Fusion Festival es el mejor festival que hemos incorporado.
+A: El Fusion Festival es un festival con algo más de 70.000 asistentes que se diferencia mucho de [El Burning Man](https://burningman.org/). El Fusion Festival es el mejor festival que hemos asimilado.
  
-Q: ¿Incorporarán a otros festivales de música?
+Q: ¿Asimilarán a otros festivales de música?
  
-A: Por favor, invítenos a incorporar su festival musical.
+A: Por favor, invítenos a asimilar su festival musical.
  
-Q: ¿Incorporarán al Fusion Festival de nuevo?
+Q: ¿Asimilarán al Fusion Festival de nuevo?
  
-A: ¡Nos encantaría incorporar al Fusion Festival de nuevo!
+A: ¡Nos encantaría asimilar al Fusion Festival de nuevo!
 
 
 ## Historia de Cloud Kinski
@@ -198,7 +198,7 @@ A: Contamos actualmente con tres músicos, y muchos artistas adicionales de acue
 
 ## Espectáculo de Festival Fusion
 
-> Incorporamos 30 miembros entusiastas del público durante el espectáculo.
+> Asimilamos 30 miembros entusiastas del público durante el espectáculo.
 
 Q: Cuéntenos sobre su espectáculo Fusion. Además de los tres músicos, ¿Con cuántos artistas adicionales contaron en el espectáculo Fusion?
  
@@ -206,9 +206,9 @@ A: Trajimos 10 artistas adicionales al festival Fusion. Al finalizar el espectá
  
 Q: ¿Cómo pasó el número de artistas adicionales durante el espectáculo de 10 a 40?
  
-A: Incorporamos a 30 miembros entusiastas del público durante el espectáculo.
+A: Asimilamos a 30 miembros entusiastas del público durante el espectáculo.
 
-Q: ¿Cómo incorporan a los miembros del público?
+Q: ¿Cómo asimilan a los miembros del público?
  
 A: Durante nuestra canción «I Feel Giorgio», nuestros artistas aplicaron maquillaje Cloud Kinski a los miembros entusiastas del público.
 
@@ -219,9 +219,9 @@ A: Durante nuestra canción «I Feel Giorgio», nuestros artistas aplicaron maqu
 *Incorporando terrícolas entusiastas.*
 {: refdef}
 
-Q: ¿A cuántos miembros del público pudieron incorporar durante el espectáculo Fusion?
+Q: ¿A cuántos miembros del público pudieron asimilar durante el espectáculo Fusion?
  
-A: Pudimos incorporar solo a 30 miembros del público durante nuestro espectáculo en Fusion, aunque tocamos en el escenario Cloud Cuckoo, un hangar repleto de aviones.
+A: Pudimos asimilar solo a 30 miembros del público durante nuestro espectáculo en Fusion, aunque tocamos en el escenario Cloud Cuckoo, un hangar repleto de aviones.
 
 {:refdef: style="text-align: center;"}
  ![](/assets/images/fusion-cloud-cuckoo-stage2.gif)
@@ -233,13 +233,13 @@ A: Pudimos incorporar solo a 30 miembros del público durante nuestro espectácu
 *Miembros del público no incorporados.*
 {: refdef}
 
-Q: En nombre del planeta Tierra, nos decepciona que hayan incorporado tan pocos terrícolas a su espectáculo Fusion.
+Q: En nombre del planeta Tierra, nos decepciona que hayan asimilado tan pocos terrícolas a su espectáculo Fusion.
  
-A: Lo lamentamos e incorporaremos más para la próxima.
+A: Lo lamentamos y asimilaremos más para la próxima.
  
 Q: ¿Les importa cuántos seguidores tengan en redes sociales?
  
-A: Nuestra métrica central de éxito se basa en cuantos terrícolas hemos incorporado.
+A: Nuestra métrica central de éxito se basa en cuantos terrícolas hemos asimilado.
 
 
 ## Philosofía
@@ -252,7 +252,7 @@ A: «Lo bueno es suficiente».
  
 Q: ¿Por qué?
  
-A:  El perfeccionismo disminuye nuestra capacidad de producir, distribuir y, en definitiva, incorporar lo más rápido y económico posible.
+A:  El perfeccionismo disminuye nuestra capacidad de producir, distribuir y, en definitiva, asimilar lo más rápido y económico posible.
  
 Q: ¿Qué es Cloud Kinski?
  
