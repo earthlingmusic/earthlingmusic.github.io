@@ -72,7 +72,7 @@ R : C'est génial ! La créativité est un bien commun.
 
 Q : Y a-t-il des problèmes de copyright ?
 
-R: De 888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888 chansons possible, on a choisi 11 qui, selon nous, plairont aux Terriens.
+R: De 888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888,888 chansons possibles, on a choisi 11 qui, selon nous, plairont aux Terriens.
 
 Q : Mais n'y a-t-il pas une zone grise juridique quant au degré de similitude qui constitue un usage loyal ?
 
