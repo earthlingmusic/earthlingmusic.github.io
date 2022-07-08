@@ -39,7 +39,7 @@ R : Oui.
 
 Q : Comment allez-vous assimiler le plus grand nombre possible d'organismes avides dans l'univers ?
 
-R : Nous pensons que le meilleur moyen d'y parvenir est de devenir le meilleur groupe de l'univers. Comme les Beatles l'ont dit, "La musique vous fait perdre le contrôle".
+R : Nous pensons que le meilleur moyen d'y parvenir est de devenir le meilleur groupe de l'univers. Comme les Beatles l'ont dit, "Music make you lose control".
 
 Q : D'où venez-vous ?
 
@@ -375,7 +375,7 @@ R : La musique a de nombreuses similitudes avec la religion. Les gens appellent 
 
 Q : Mais vous avez une devise et une philosophie sur l'art, qui ressemble à une organisation spirituelle, et vos fans sont fous de vous.
 
-R : Ce n'est pas différent des Beatles. Même les Beatles avaient une devise : "Libère ton cul et ton esprit suivra".
+R : Ce n'est pas différent des Beatles. Même les Beatles avaient une devise : "Free your ass and your mind will follow.".
 
 Q : Incroyable ! Vous n'êtes pas une religion. Pourquoi vous intéressez-vous tant aux Beatles ?
 

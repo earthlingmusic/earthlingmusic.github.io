@@ -39,7 +39,7 @@ A: Así es.
  
 Q: ¿Cómo asimilarán al mayor número posible de organismos entusiastas del universo?
  
-A: Creemos que la mejor manera para hacerlo es convirtiéndonos en la mejor banda en el universo. Como los Beatles dijeron, «La música te hace perder el control».
+A: Creemos que la mejor manera para hacerlo es convirtiéndonos en la mejor banda en el universo. Como los Beatles dijeron, «Music make you lose control».
  
 Q: ¿De dónde provienen?
  
@@ -373,7 +373,7 @@ A: La música tiene muchas similitudes con la religión. La gente llama a [Bergh
  
 Q: Pero ustedes tienen un lema y una filosofía sobre el arte, lo cual suena como a una organización espiritual, y sus fans los adoran.
  
-A: Esto no es algo diferente de los Beatles. Incluso los Beatles tenían un lema: «Libere el trasero y su mente seguirá».
+A: Esto no es algo diferente de los Beatles. Incluso los Beatles tenían un lema: «Free your ass and your mind will follow.».
  
 Q: ¡Espectacular! No son una religión. ¿Por qué están tan interesados en los Beatles?
  
