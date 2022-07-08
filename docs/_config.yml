@@ -9,7 +9,7 @@ url: https://earthlingmusic.com/
 #baseurl: '/earthlingmusic/'
 baseurl: ''
 #disqus: 'demowebsite'
-#email: 'wowthemesnet@gmail.com'
+email: 'cloudkinski@gmail.com'
 mailchimp-list: 'https://soundcloud.us10.list-manage.com/subscribe/post?u=dc1c5cf438810073dbe0d8e52&amp;id=5916cbe3a3'
 
 include: ["_pages"]
