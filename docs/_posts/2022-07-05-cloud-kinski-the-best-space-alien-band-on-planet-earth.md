@@ -5,6 +5,7 @@ author: hume
 categories: [ music ]
 image: assets/images/cloud-kinski-nanu.jpg
 tags: [featured]
+langs: {"en": "cool"}
 ---
 
 Read in [English](/cloud-kinski-the-best-space-alien-band-on-planet-earth/), [Español](/_pages/2022-07-05-cloud-kinski-la-mejor-banda-alienígena-en-el-planeta-tierra/), [Français](/_pages/2022-07-05-cloud-kinski-le-meilleur-groupe-de-musiciens-extraterrestres-sur-la-planète-terre/)
