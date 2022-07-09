@@ -7,7 +7,7 @@ image: assets/images/cloud-kinski-nanu.jpg
 tags: [featured]
 ---
 
-Read in [English](/cloud-kinski-the-best-space-alien-band-on-planet-earth/)|[Español](/_pages/2022-07-05-cloud-kinski-la-mejor-banda-alienígena-en-el-planeta-tierra/)|[Français](/_pages/2022-07-05-cloud-kinski-le-meilleur-groupe-de-musiciens-extraterrestres-sur-la-planète-terre/)
+Read in [English](/cloud-kinski-the-best-space-alien-band-on-planet-earth/), [Español](/_pages/2022-07-05-cloud-kinski-la-mejor-banda-alienígena-en-el-planeta-tierra/), [Français](/_pages/2022-07-05-cloud-kinski-le-meilleur-groupe-de-musiciens-extraterrestres-sur-la-planète-terre/)
 
 [Cloud Kinski](https://linktr.ee/cloudkinski) is a space alien band that plays on planet Earth. On July 1st, they released their first album [Nanu](https://soundcloud.com/cloudkinski/sets/nanu) on all Earthling streaming platforms. Their album dropped as they played [Fusion Festival](https://www.fusion-festival.de/de/2022/start) to a packed audience at the Cloud Cuckoo stage, a full aeroplane hangar. 30 eager Earthlings were successfully assimilated during the show.
 
