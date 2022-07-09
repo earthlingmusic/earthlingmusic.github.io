@@ -7,6 +7,8 @@ image: assets/images/cloud-kinski-nanu.jpg
 tags: []
 ---
 
+Read in [English](/cloud-kinski-the-best-space-alien-band-on-planet-earth/)|[Español](/_pages/2022-07-05-cloud-kinski-la-mejor-banda-alienígena-en-el-planeta-tierra/)|[Français](/_pages/2022-07-05-cloud-kinski-le-meilleur-groupe-de-musiciens-extraterrestres-sur-la-planète-terre/)
+
 [Cloud Kinski](https://linktr.ee/cloudkinski) est un groupe d'extraterrestres de l'espace qui joue sur la planète Terre. Le 1er juillet, ils ont publié leur premier album Nanu sur toutes les plateformes de streaming terriennes. Leur album a été publié durant leur concert au [Festival Fusion](https://www.fusion-festival.de/de/2022/start) devant une salle comble sur la scène Cloud Cuckoo, un hangar d'avion plein à craquer. 30 Terriens avides ont été assimilés avec succès au cours du spectacle.
 
 {:refdef: style="text-align: center;"}
