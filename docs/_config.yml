@@ -55,6 +55,14 @@ authors:
       email:          humehumon@gmail.com
       twitter:        https://twitter.com/humehumon
 
+    manfred:
+      name:           Manfred Menschenkind
+      site:           https://www.humehumon.net
+      avatar:         assets/images/hume-humon.jpeg
+      bio:            "Manfred Menschenkind ist ein Journalist von der Erde, der über irdische Musik, irdischen Sound und irdischen Klang berichtet."
+      email:          humehumon@gmail.com
+      twitter:        https://twitter.com/humehumon
+
  
 # Defaults
 defaults:
