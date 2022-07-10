@@ -335,7 +335,7 @@ Q: Anyone else you would like to thank?
 A: We would like to thank [Artisania](https://www.artistania.org/) for our rehearsal space. We would like to thank Fusion festival and the entire crew of the Cloud Cuckoo stage for welcoming us so warmly. We would like to thank all our fans, both the old and new ones we have assimilated.
 -->
 
-## Cloud Kinski is increíble
+## Cloud Kinski es increíble
 
 > Somos la mejor banda alienígena espacial actual en el planeta Tierra, además de Krakftwerk.
 
