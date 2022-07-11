@@ -14,6 +14,9 @@ langs: True
  ![](/assets/images/ck-dancing1.gif)
 {: refdef}
 {:refdef: style="text-align: center;"}
+ ![](/assets/images/ck-fusion-bubbles-from-kamila.gif)
+{: refdef}
+{:refdef: style="text-align: center;"}
 *Cloud Kinski at Fusion Festival.*
 {: refdef}
 
