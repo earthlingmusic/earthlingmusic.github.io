@@ -8,7 +8,7 @@ tags: []
 langs: True
 ---
 
-[Cloud Kinski](https://linktr.ee/cloudkinski) ist eine außerirdische Band aus dem Weltraum, die auf dem Planeten Erde spielt. Am 1. Juli veröffentlichten sie ihr erstes Album Nanu auf allen irdischen Streaming-Plattformen.. Ihr Album kam raus, als sie gerade auf dem [Fusion Festival](https://www.fusion-festival.de/de/2022/start) vor einem großen Publikum auf der Cloud  Cuckoo-Bühne, einem Flugzeughangar, spielten. 30 eifrige Erdlinge wurden während der Show erfolgreich assimiliert.
+[Cloud Kinski](https://linktr.ee/cloudkinski) ist eine außerirdische Band aus dem Weltraum, die auf dem Planeten Erde spielt. Am 1. Juli veröffentlichten sie ihr erstes Album Nanu auf allen irdischen Streaming-Plattformen. Ihr Album kam raus, als sie gerade auf dem [Fusion Festival](https://www.fusion-festival.de/de/2022/start) vor einem großen Publikum auf der Cloud  Cuckoo-Bühne, einem Flugzeughangar, spielten. 30 eifrige Erdlinge wurden während der Show erfolgreich assimiliert.
 
 {:refdef: style="text-align: center;"}
  ![](/assets/images/ck-dancing1.gif)
@@ -159,7 +159,7 @@ A: Nanu.
 ![](/assets/images/fusionA4.jpg)
 {: refdef}
 {:refdef: style="text-align: center;"}
-*Kauderwelsch, den Cloud Kinski uns zukommen lassen hat.*
+*Kauderwelsch, den Cloud Kinski uns hat zukommen lassen.*
 {: refdef}
 
 F: Wie unterscheidet ihr euch von Musikern der Erde?
@@ -250,7 +250,7 @@ A: Follower zählen nicht. Unser wichtigster Erfolgsmaßstab ist, wie viele Erdb
 
 ## Philosophie
 
-> Ja, du kannst. Gehe hinaus und mache Kunst, auf die Cloud-Kinski.Art. Du kannst es schaffen!
+> Ja, du kannst. Gehe hinaus und mache Kunst, auf die Cloud-Kinski-Art. Du kannst es schaffen!
 
 F: Was ist das Motto von Cloud Kinski?
 
